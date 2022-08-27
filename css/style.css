@@ -120,7 +120,7 @@ border-radius: 10px;
 
 
 
-@media screen and (max-width:768px)and (min-width:500px){
+@media screen and (max-width:768px)and (min-width:501px){
 .bg-beige{
     background-color:  #D0E8E1;
     }
@@ -143,6 +143,7 @@ border-radius: 10px;
     }
 .img-carousel{
     margin-top: 30px;
+    margin-left:0%;
     /* margin-left: 25px;  */
     width: 350px;
     height: 350px;
